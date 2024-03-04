@@ -2,7 +2,8 @@
 
 A chrome extension to save svg files as png
 
-![Demo](./demo.webm)
+[demo.webm](https://github.com/Vendicated/SaveSvgAsPng/assets/45497981/e100c80f-bc54-43df-b09c-4810f6303dcd)
+
 
 ## How to install
 
