@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "Save SVG as PNG",
+    "author": "Vendicated",
+    "description": "Adds a context menu option to save SVG files as PNG",
+    "version": "0.1",
+
+    "permissions": ["contextMenus"],
+    "host_permissions": ["*://*/*"],
+
+    "background": {
+        "service_worker": "background.js"
+    }
+  }
